@@ -35,6 +35,6 @@ float: none;
 text-align: left;
 }
 
-#white{
+#white, #player_question, #player_answer{
 	color: white;
 }

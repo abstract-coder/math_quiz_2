@@ -11,5 +11,5 @@ localStorage.setItem("player_1", player1);
 localStorage.setItem("player_2", player2);
 
   //Assign "game_page.html" to window.location
-  window.location.replace("index.html");
+  window.location.replace("game_page.html");
 }
